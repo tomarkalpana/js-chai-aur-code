@@ -1,2 +1,2 @@
 # js-chai-aur-code
-js from chai aur code 
+javascript learning from chai aur code 
